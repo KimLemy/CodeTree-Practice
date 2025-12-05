@@ -1,2 +1,2 @@
 # CodeTree-Practice
-I'm Novice Low :) 
+I'm Novice Low
